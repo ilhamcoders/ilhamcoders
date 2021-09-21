@@ -2,7 +2,7 @@
 - 👀 I’m interested in data scientist, data analyst and data engineer
 - 🌱 I’m currently learning at DQLab
 - 💞️ I’m looking to collaborate on data scientist, data analyst and data engineer
-- 📫 How to reach me at e-mail ilham070201@gmail.com, phone +6285156564024 & LinkedIn Ilham-
+- 📫 How to reach me at e-mail ilham070201@gmail.com, phone +6285156564024 & LinkedIn https://www.linkedin.com/in/ilham-data-scientist/
 
 <!---
 ilhamcoders/ilhamcoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
